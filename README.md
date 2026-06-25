@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 - 🎓 3rd-year Computer Engineering student
-- 🚁 Focused on **Autonomous UAVs, Swarm Robotics, ROS 2, and Image Processing**.
-- 🧠 Currently expanding my stack into **Neural Networks, LLMs, and building RAG pipelines**.
-- 💡 **Passionate about solving real-world problems through code** 
-- ⚡ I love participating in hackathons and rapidly building new projects.## 🛠 Tech Stack
+- 🚁 Focused on Autonomous UAVs, Swarm Robotics, ROS 2, and Image Processing.
+- 🧠 Currently expanding my stack into Neural Networks, LLMs, and building RAG pipelines.
+- 💡 Passionate about solving real-world problems through code.
+- ⚡ I love participating in hackathons and rapidly building new projects.
 <p align="left">
   <!-- Ana Diller -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
