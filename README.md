@@ -1,13 +1,11 @@
 # Hi there, I'm Muhammet! 👋
 
 ## 🚀 About Me
-- 🎓 **3rd-year Computer Engineering student** at AGÜ (Abdullah Gül University).
-- 🚁 Deeply focused on **Autonomous UAVs, Swarm Robotics, ROS 2, and Image Processing**.
+- 🎓 3rd-year Computer Engineering student
+- 🚁 Focused on **Autonomous UAVs, Swarm Robotics, ROS 2, and Image Processing**.
 - 🧠 Currently expanding my stack into **Neural Networks, LLMs, and building RAG pipelines**.
-- 💡 **Passionate about solving real-world problems through code** (whether it's autonomous agents or full-stack logistics systems).
-- 🎲 In my free time away from projects, I enjoy playing D&D (currently rolling the dice as an Arcane Trickster!).
-
-## 🛠 Tech Stack
+- 💡 **Passionate about solving real-world problems through code** 
+- ⚡ I love participating in hackathons and rapidly building new projects.## 🛠 Tech Stack
 <p align="left">
   <!-- Ana Diller -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
