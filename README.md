@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=muhammetgumus55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="195" alt="Muhammet's GitHub stats" /> 
 
 <!--
 **muhammetgumus55/muhammetgumus55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
